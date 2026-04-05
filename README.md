@@ -1,7 +1,7 @@
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/1df461bc-1991-4c57-8600-e87dea417c84" />
-Hey there 👋, I'm mandip koiri
-A passionate Programmer | Data Scientist | Web Developer | Robotics & IoT Enthusiast
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/1df461bc-1991-4c57-8600-e87dea417c84" /> code from home
+        Hey there 👋, I'm mandip koiri
+A passionate Programmer | Data Scientist | Web Developer | AI | Robotics & IoT Enthusiast
 
 # 💫 About Me:
 “I’m a B.Tech CSE student specializing in AI/ML.<br> passionate about exploring intelligent systems, data-driven solutions, and innovative technologies.<br> I love learning, building, and applying machine learning <br>concepts to solve real-world problems.”
