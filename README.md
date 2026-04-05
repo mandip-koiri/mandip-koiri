@@ -1,6 +1,8 @@
 
-                     <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/b2e9e754-ba6e-48c1-915f-612259dc190a" />
-        Hey there 👋, I'm mandip koiri
+   <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/b2e9e754-ba6e-48c1-915f-612259dc190a" />
+        
+        
+  Hey there 👋, I'm mandip koiri
 <br>A passionate Programmer | Data Scientist | Web Developer | AI | Robotics & IoT Enthusiast
 
 # 💫 About Me:
