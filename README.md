@@ -1,5 +1,5 @@
 
-<img width="768" height="768" alt="image" src="https://github.com/user-attachments/assets/1df461bc-1991-4c57-8600-e87dea417c84" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/1df461bc-1991-4c57-8600-e87dea417c84" />
 Hey there 👋, I'm mandip koiri
 A passionate Programmer | Data Scientist | Web Developer | Robotics & IoT Enthusiast
 
